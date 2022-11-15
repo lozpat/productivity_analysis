@@ -1,0 +1,208 @@
+﻿Month (folder),Date,Video time,Droplet,Surface,Frame rate,ms per frame,Zoom cal,Pulse profile,RH,Temp,Notes
+January,20220127,_135658,water,Teflon,100000,0.01,3,"2.7 V, 60 us",X,X,Proof of concept of observing oscillation frequency
+January,20220131,_152234,water,Borosilicate,100000,0.01,2,"2.7 V, 60 us",X,X,Compare to Tanner's law model
+January,20220131,_152512,water,Polylysine,100000,0.01,2,"2.7 V, 60 us",X,X,Compare to Tanner's law model
+February,20220214,5 repeats each conc,water-ethanol,N/A,100000,0.01,2,"3 V, 35 us except 90 and 100",X,X,Size analysis of water-ethanol mixture droplets
+February,20220221,10 repeats,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220222,10 repeats,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,_164839,100% ethanol,Borosilicate,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,Spread to compare to Tanner's law model
+February,20220222,_165136,100% ethanol,Polylysine,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,Spread to compare to Tanner's law model
+February,20220222,_165416,100% ethanol,Silane,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,Spread to compare to Tanner's law model
+February,20220223,10 repeats,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,10 repeats,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,10 repeats,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,10 repeats,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+March,20220304,10 repeats,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,10 repeats,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,10 repeats,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,10 repeats,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220308,_124041,5% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
+March,20220308,_125200,10% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
+March,20220308,_130424,15% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
+March,20220308,_132210,20% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
+March,20220308,_152734,25% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
+March,20220308,_153531,30% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
+March,20220308,_154412,40% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
+March,20220309,10 repeats,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,10 repeats,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,10 repeats,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,10 repeats,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,_122631,50% ethanol,Borosilicate,100000,0.01,2,"4 V, 35 us",X,X,45.57790056
+March,20220309,_130041,60% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,40.24844569
+March,20220309,_142709,70% ethanol,Borosilicate,100000,0.01,2,"2.8 V, 35 us",X,X,38.97593301
+March,20220309,_145257,80% ethanol,Borosilicate,100000,0.01,2,"2.6 V, 35 us",X,X,40.64723692
+March,20220309,_150034,90% ethanol,Borosilicate,100000,0.01,2,"2.5 V, 35 us",X,X,43.18299948
+March,20220329,10 repeats,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+April,20220408,"10, 1, 0.1 Hz",water,N/A,Snapshot,N/A,2,Unknown,X,X,Images of tip dispensing and free droplet to compare dispensing frequency
+April,20220421,20 repeats at 0.09 ms ,5% sucrose,N/A,100000,0.01,2,"3V, 40 us",X,X,Cycle view of 0.09 ms after dispensing pulse (20 cycles)
+April,20220421,20 repeats at 0.1 ms,5% sucrose,N/A,100000,0.01,2,"3V, 40 us",X,X,Cycle view of 0.1 ms after dispensing pulse (20 cycles)
+April,20220421,20 repeats (15 frames),5% sucrose,N/A,100000,0.01,2,"3V, 40 us",X,X,"All 15 frames of the 20 cycles, including snapshot of all 20 cycles"
+April,20220421,10 repeats,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,_104645,5% sucrose,Teflon,Snapshot,N/A,2,"3V, 40 us",X,X,Snapshot of residue of 7 repeats on surface at full resolution (1024 x 1024)
+April,20220421,_122215,5% sucrose,Borosilicate,100000,0.01,2,"3V, 40 us",X,X,48.26066768
+May,20220503,3 repeats,10% sucrose,Teflon,100000,0.01,2,"4V, 35 us",X,X,"Only able to capture 3 repeats, very unreliable on the days attemped"
+May,20220512,10 repeats,water,N/A,Stroboscopic,N/A,N/A,"-0.1V, 3 us, 2.6V, 7 us",X,X,Good calculation of pure water ST
+May,20220517,5 repeats,ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 3.0V, 9us",X,X,Good calculation of pure ethanol ST
+May,20220517,5 repeats,5% ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 2.8V, 6us",X,X,"Poor calc of ST (too high), perhaps some ethanol has evaporated, now conc lower than 5"
+May,20220518,6 repeats,5% ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 2.8V, 6us",X,X,"New soln used, however exposure time too long, blurry droplets"
+May,20220518,folder 9,5% ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 2.8V, 6us",X,X,"New soln, exposure time short, still high?"
+May,20220518,2 repeats,10% ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 2.8V, 6us",X,X,A bit high but ok I guess. Used old soln
+June,20220601,112731,water,Teflon,100000,0.01,2,"3V, 35us",X,X,Water test of new setup with dummy pulse
+June,20220601,_120614,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,"Free droplet not in focus, unable to size accurately"
+June,20220629,5 repeats,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,Total 8 repeats of 10% sucrose
+July,20220714,171824,1% NaHCO3,Polylysine,100000,0.01,2,"3.5V, 35 us",31,27,Impact on surface
+July,20220715,142146,10% NaCl,Borosilicate,100000,0.01,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 0.4 seconds"
+July,20220715,142534,10% NaCl,Borosilicate,100000,0.01,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 1 second"
+July,20220715,145203,10% NaCl,Borosilicate,12800,0.08,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 1 second"
+July,20220715,145350,10% NaCl,Borosilicate,12800,0.08,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 2 seconds"
+July,20220715,145525,10% NaCl,Borosilicate,12800,0.08,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 1.5 seconds"
+July,20220715,145945,10% NaCl,Borosilicate,12800,0.08,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 3 seconds"
+August,20220808,165415,water,Polylysine?,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,10 repeats,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220810,8 repeats,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Small, slow droplets, videos taken during setup testing"
+August,20220810,9 repeats,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Bad, out of focus or no clean shot of free droplet for sizing"
+August,20220810,6 repeats,20% sucrose,Teflon,100000,0.01,2,"3.5V, 35us",X,X,Looks good
+August,20220810,_150529,20% sucrose,Borosilicate,100000,0.01,2,"3.5V, 35us",X,X,41.90336855
+August,20220811,8 repeats,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220812,_102608,30% sucrose,Borosilicate,100000,0.01,2,"4.5V, 35 us",X,X,"44.1852421832855, closer to model than lower conc, likely due to increased viscosity, quicker oscillation damping, spreading begins earlier"
+August,20220812,5 repeats,30% sucrose,Teflon,100000,0.01,2,"4.5V, 35 us",X,X,"Repeat 123 = cell above, 4 etc these droplets"
+August,20220822,6 repeats,20% NaCl,Teflon,100000,0.01,2,"4V, 25 us",53,23,Accurately determines surface tension woop!
+August,20220822,_164027,20% NaCl,Borosilicate,100000,0.01,2,"4V, 25 us",53,23,44.08081606
+August,20220823,_154107,10% sucrose,Borosilicate,100000,0.01,2,"3.5V, 35us",X,X,46.14317103
+August,20220823,_164530,20% NaCl,Teflon,10000,0.10,2,"A: 3.5V, 35 us, D: 3V, 20us",61,20,Weird bouncing artefact
+August,20220823,_164750,20% NaCl,Teflon,10000,0.10,2,"A: 3.5V, 35 us, D: 3V, 20us",61,20,"First attempt to probe evaporation dynamics, ~ 60% RH"
+August,20220824,_111040,20% NaCl,Teflon,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",65,20,Frame skip (every frame = 100 ms) 
+August,20220824,_111317,20% NaCl,Teflon,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",65,20,"Every frame saved, very large. Over sampled, no need to analyse"
+August,20220824,_143322,20% NaCl,Borosilicate,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
+August,20220824,_144913,20% NaCl,Polylysine,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
+August,20220824,_150155,20% NaCl,Silane,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
+August,20220824,_155923,20% NaCl,Teflon,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",65,20,Frame skip (every frame = 10 ms) new version of _111317 (frame skip)
+August,20220831,_10ethanol,10% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"6,7,15 - good value"
+August,20220831,_20ethanol,20% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"18,21,22 - bad, will repeat"
+August,20220831,_30ethanol,30% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"26 - bad, will repeat"
+September,20220901,_20ethanol,20% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"3,4,6 - good value"
+September,20220901,_30ethanol,30% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"11 - good value, 12, 13 - bad, need repeats, good repeats 23,24"
+September,20220901,_40ethanol,40% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"17 - good value, 18,20 - bad, need repeats, good repeats 21,22"
+September,20220901,_60%ethanol,60% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"25,26,27"
+September,20220901,_80%ethanol,80% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"28,29,30"
+September,20220921,10 repeats,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,152840,2.5% NaHCO3,Teflon,100000,0.01,2,"A: 3V, 315us, D: 5V, 35us",41,22,"Frame skip evaporation, no crystallisation observed (too short)"
+September,20220921,154623,2.5% NaHCO3,Borosilicate,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: spreading data
+September,20220921,tip pics,tip pics,N/A,Snapshot,N/A,N/A,N/A,X,X,"Crusted NaHCO3, water, empty"
+September,20220922,151426,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 5V, 35us",44,23,49.56795172
+September,20220922,151614,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 5V, 35us",44,23,"FULL IMPACT, EVAP, CRYSTALLIZE: Playback 5 FPS, skips 5000 frames"
+September,20220922,151846,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 5V, 35us",44,23,"CRYSTALLIZE ONLY: Playback 5 FPS, skips 1000 frames"
+September,20220922,152028,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 5V, 35us",44,23,"CRYSTALLIZE ONLY: Playback 10 FPS, skips 1000 frames"
+September,20220922,152916,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 5V, 35us",44,23,"FULL IMPACT, EVAP, CRYSTALLIZE: Playback 10 FPS, skips 1000 frames"
+September,20220922,153231,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 5V, 35us",44,23,"REAL TIME, FULL IMPACT, EVAP, CRYSTALLIZE: Playback 10 FPS, skips 10,000 frames"
+September,20220922,153424,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 5V, 35us",44,23,"REAL TIME, FULL IMPACT, EVAP, CRYSTALLIZE: Playback 60 FPS, skips 1666 frames"
+October,20221012,111744,20% NaCl,Teflon,100000,0.01,2,"A: 3.5V, 20 us, D: 5V, 35 us",43,22,Oscillations (matching video below) 45.5779005576832
+October,20221012,111928,20% NaCl,Teflon,100000,0.01,2,"A: 3.5V, 20 us, D: 5V, 35 us",43,22,"Evaporation, no crystallization, 1666 frame skip (matching video above)"
+October,20221012,113206,20% NaCl,Teflon,100000,0.01,2,"A: 3.5V, 20 us, D: 5V, 35 us",43,22,Bounce (blurry) 43.7397093797705
+October,20221012,115109,20% NaCl,Teflon,100000,0.01,2,"A: 3.5V, 20 us, D: 5V, 35 us",43,22,Bounce (almost identical to droplet below) 47.7385910096384
+October,20221012,115152,20% NaCl,Teflon,100000,0.01,2,"A: 3.5V, 20 us, D: 5V, 35 us",43,22,Bounce (almost identical to droplet above) 47.4116519803972
+October,20221012,115247,20% NaCl,Teflon,100000,0.01,2,"A: 3.5V, 20 us, D: 5V, 35 us",43,22,Oscillations (matching video below) 46.7324282154395
+October,20221012,115325,20% NaCl,Teflon,100000,0.01,2,"A: 3.5V, 20 us, D: 5V, 35 us",43,22,"Evaporation, no crystallization, 1666 frame skip (matching video above)"
+October,20221013,151242,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",39,23,Oscillations (matching video below) 50.9265435037084
+October,20221013,151342,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",39,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+October,20221013,154608,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",39,23,Oscillations (matching video below) 49.6666407192595
+October,20221013,154636,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",39,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+October,20221013,154838,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",39,23,Oscillations (matching video below) 51.2872495149208
+October,20221013,154852,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",39,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+October,20221013,155156,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",39,23,Oscillations (matching video below)
+October,20221013,155220,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",39,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+October,20221014,1349P,20% NaCl,N/A,EDB,N/A,N/A,N/A,45,24,44.5% RH
+October,20221014,1434P,20% NaCl,N/A,EDB,N/A,N/A,N/A,40,23,39.7% RH
+October,20221028,_145510,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",43,24,"Bounce, then oscillate, same droplet as below, calc size from contact angle and R (vol)"
+October,20221028,_145610,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",43,24,"Evap then crystallize, same droplet as above, calc size from contact angle and R (vol)"
+October,20221028,_145921,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",43,24,Bounce
+October,20221028,_150006,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",43,24,Bounce
+October,20221028,_150030,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",43,24,Bounce
+October,20221028,_150104,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",43,24,Bounce
+October,20221031,_143055,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20 us, D: 5V, 35 us",47,22,Bounce
+November,20221103,_113832,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",42.5,23,Oscillations (matching video below)
+November,20221103,_113849,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",42.5,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_114103,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",42.22,23,Oscillations (matching video below)
+November,20221103,_114116,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",42.22,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_120426,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",42.44,23,Oscillations (matching video below)
+November,20221103,_120437,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",42.44,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_120902,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",41.75,23,Oscillations (matching video below)
+November,20221103,_120912,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",41.75,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_121039,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",41.68,23,Oscillations (matching video below)
+November,20221103,_121050,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",41.68,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_121219,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",41.69,23,Oscillations (matching video below)
+November,20221103,_121230,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",41.69,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_142351,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",38.46,23,Oscillations (matching video below)
+November,20221103,_142402,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",38.46,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_142536,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",38.24,23,Oscillations (matching video below)
+November,20221103,_142555,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",38.24,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_142701,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",38.01,23,Oscillations (matching video below)
+November,20221103,_142711,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",38.01,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_142826,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.95,23,Oscillations (matching video below)
+November,20221103,_142837,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.95,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_142949,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.95,23,Oscillations (matching video below)
+November,20221103,_143002,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.95,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_143144,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.91,23,Oscillations (matching video below)
+November,20221103,_143200,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.91,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_143504,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.67,23,Oscillations (matching video below)
+November,20221103,_143516,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.67,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_143645,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.55,23,Oscillations (matching video below)
+November,20221103,_143655,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.55,23,"Evaporation AND crystallization, 1666 frame skip (matching video above)"
+November,20221103,_143913,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.3,23,Oscillations (matching video below)
+November,20221103,_143924,20% NaCl,Teflon,100000,0.01,2,"A: 5V, 20us, D: 6V, 35 us",37.3,23,"Evap + cryst - blurry, possible second droplet in frame (matching video above)"
+November,20221107,_143723,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.8,20,Oscillations (matching video below)
+November,20221107,_143754,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.8,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_144026,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.98,20,Oscillations (matching video below)
+November,20221107,_144038,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.98,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_144231,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.86,20,Oscillations (matching video below)
+November,20221107,_144250,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.86,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_144448,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",57.09,20,Oscillations (matching video below)
+November,20221107,_144459,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",57.09,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_144748,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.98,20,Oscillations (matching video below)
+November,20221107,_144800,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.98,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_144924,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.76,20,Oscillations (matching video below)
+November,20221107,_144936,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.76,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_145341,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.4,20,Oscillations (matching video below)
+November,20221107,_145354,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.4,20,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_145538,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.26,20,Oscillations (matching video below)
+November,20221107,_145548,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",56.26,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_150628,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.16,20,Oscillations (matching video below)
+November,20221107,_150639,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.16,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_150834,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.34,20,Oscillations (matching video below)
+November,20221107,_150846,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.34,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_150955,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.3,20,Oscillations (matching video below)
+November,20221107,_151008,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.3,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_151150,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.37,20,Oscillations (matching video below)
+November,20221107,_151201,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.37,20,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_151414,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.02,20,Oscillations (matching video below)
+November,20221107,_151425,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",55.02,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_151645,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",54.81,20,Oscillations (matching video below)
+November,20221107,_151658,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",54.81,20,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221107,_152158,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",54.36,20,Oscillations (matching video below)
+November,20221107,_152242,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",54.36,20,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_115629,20% NaNO3,Borosilicate,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",48,21,Spreading
+November,20221108,_120220,20% NaNO3,Borosilicate,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",48,21,Spreading
+November,20221108,_124954,20% NaNO3,Borosilicate,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",47,21,Spreading
+November,20221108,_125143,20% NaNO3,Borosilicate,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",47,21,Spreading
+November,20221108,_125432,20% NaNO3,Borosilicate,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",46,21,Spreading - best of
+November,20221108,_142100,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_142112,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_142306,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_142317,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_142443,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_142454,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_142609,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_142621,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_142735,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_142746,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_142854,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_142905,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_143020,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_143033,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation NO CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_143315,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_143326,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_143440,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_143451,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_143602,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
+November,20221108,_143615,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
+November,20221108,_143729,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Bounce
