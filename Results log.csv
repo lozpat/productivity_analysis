@@ -398,3 +398,48 @@ November,20221108,_143451,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 
 November,20221108,_143602,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Oscillations (matching video below)
 November,20221108,_143615,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,"Evaporation CRYSTALLIZATION, 1666 frame skip (matching video above)"
 November,20221108,_143729,20% NaNO3,Teflon,100000,0.01,2,"A: 4.5V, 20us, D: 3V, 35 us",41,22,Bounce
+November,20221111,11 repeats,incorrect silica NPs,Teflon,100000,0.01,2,"A: 3V, 35s, D: 5V, 20 us",-,-,Incorrect conc of silica (used wrong density) - ignore these
+November,20221115,112354,0.25% silica NPs,Teflon,100000,0.01,2,"A: 5V, 35us, D: unknown",50,,"Oscillations (matching video below), clogs easily, will try 0.1% conc"
+November,20221115,112406,0.25% silica NPs,Teflon,100000,0.01,2,"A: 5V, 35us, D: unknown",50,,"Evaporation - small residue (matching video above), clogs easily, will try 0.1% conc"
+November,20221115,112718,0.25% silica NPs,Teflon,100000,0.01,2,"A: 5V, 35us, D: unknown",50,,"Oscillations (matching video below), clogs easily, will try 0.1% conc"
+November,20221115,112730,0.25% silica NPs,Teflon,100000,0.01,2,"A: 5V, 35us, D: unknown",50,,"Evaporation - small residue (matching video above), clogs easily, will try 0.1% conc"
+November,20221116,134948,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",41.2,22,Oscillations (matching video below)
+November,20221116,134959,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",41.2,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,134145,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",40.97,22,Oscillations (matching video below)
+November,20221116,135155,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",40.97,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,135412,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",40.83,22,Oscillations (matching video below)
+November,20221116,135423,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",40.83,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,141011,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",40.63,22,Oscillations (matching video below)
+November,20221116,141020,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",40.63,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,141243,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",39.41,22,Oscillations (matching video below)
+November,20221116,141254,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",39.41,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,141422,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",39.02,22,Oscillations (matching video below)
+November,20221116,141434,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",39.02,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,141643,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.86,22,Oscillations (matching video below)
+November,20221116,141654,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.86,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,141805,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.68,22,Oscillations (matching video below)
+November,20221116,141816,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.68,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,141911,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.76,22,Oscillations (matching video below)
+November,20221116,141921,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.76,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,142028,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.63,22,Oscillations (matching video below)
+November,20221116,142038,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.63,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,142140,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.6,22,Oscillations (matching video below)
+November,20221116,142151,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.6,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,142436,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.53,22,Oscillations (matching video below)
+November,20221116,142505,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.53,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,142645,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.24,22,Oscillations (matching video below)
+November,20221116,142655,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.24,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,142817,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.23,22,Oscillations (matching video below)
+November,20221116,142826,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.23,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,142930,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.08,22,Oscillations (matching video below)
+November,20221116,142941,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.08,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,143038,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.13,22,Oscillations (matching video below)
+November,20221116,143048,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.13,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,143212,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.08,22,Oscillations (matching video below)
+November,20221116,143224,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",38.08,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,143400,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",37.86,22,Oscillations (matching video below)
+November,20221116,143442,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",37.86,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,143554,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",37.96,22,Oscillations (matching video below)
+November,20221116,143604,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",37.96,22,Evaporation (matching video above) with coffee ring residue left after evap
+November,20221116,143652,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",37.69,22,Oscillations (matching video below)
+November,20221116,143704,Artificial saliva,Teflon,100000,0.01,2,"A: 3V, 20us, D: 3V, 35us",37.69,22,Evaporation (matching video above) with coffee ring residue left after evap
