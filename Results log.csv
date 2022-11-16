@@ -3,19 +3,108 @@ January,20220127,_135658,water,Teflon,100000,0.01,3,"2.7 V, 60 us",X,X,Proof of 
 January,20220131,_152234,water,Borosilicate,100000,0.01,2,"2.7 V, 60 us",X,X,Compare to Tanner's law model
 January,20220131,_152512,water,Polylysine,100000,0.01,2,"2.7 V, 60 us",X,X,Compare to Tanner's law model
 February,20220214,5 repeats each conc,water-ethanol,N/A,100000,0.01,2,"3 V, 35 us except 90 and 100",X,X,Size analysis of water-ethanol mixture droplets
-February,20220221,10 repeats,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
-February,20220222,10 repeats,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220221,150427,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,150754,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,150843,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,151242,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,151354,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,151434,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,151603,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,151706,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,151827,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220221,151916,water,Teflon,100000,0.01,2,Unknown,X,X,"Good data showing calc of water ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220222,150312,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,150414,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,150516,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,150553,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,150640,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,150716,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,150853,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,150942,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
+February,20220222,151027,100% ethanol,Teflon,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,"Very low contact angle, damped oscillations by spreading"
 February,20220222,_164839,100% ethanol,Borosilicate,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,Spread to compare to Tanner's law model
 February,20220222,_165136,100% ethanol,Polylysine,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,Spread to compare to Tanner's law model
 February,20220222,_165416,100% ethanol,Silane,100000,0.01,2,"-3 V, 5 us, 4.2 V, 35 us",X,X,Spread to compare to Tanner's law model
-February,20220223,10 repeats,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
-February,20220223,10 repeats,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
-February,20220223,10 repeats,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
-February,20220223,10 repeats,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
-March,20220304,10 repeats,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
-March,20220304,10 repeats,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
-March,20220304,10 repeats,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
-March,20220304,10 repeats,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+February,20220223,162228,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,162455,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,162541,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,162639,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,162730,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,162813,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,162907,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,162949,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,163016,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,163138,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,Data looks rubbish - better focus/lighting needed. Repeat
+February,20220223,164025,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164120,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164216,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164255,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164449,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164630,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164703,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164737,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164837,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,164938,10% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170332,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170359,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170420,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170444,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170504,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170523,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170545,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170640,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170717,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,170744,15% ethanol,Teflon,100000,0.01,2,"4.0 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed with 64 datapoints for FFT)"
+February,20220223,171646,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,171731,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,171806,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,171838,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,171904,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,171928,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,172001,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,172022,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,172044,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+February,20220223,172111,20% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency (re analysed first 2 with 64 datapoints for FFT)"
+March,20220304,134055,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134212,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134308,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134351,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134423,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134517,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134605,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134632,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134730,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,134750,5% ethanol,Teflon,100000,0.01,2,"3.5 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,144414,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,144729,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,144843,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,145013,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,145042,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,145409,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,145435,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,145502,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,145556,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,145614,25% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Good data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152109,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152131,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152153,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152217,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152246,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152431,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152500,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152539,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152614,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,152659,30% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,154958,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155033,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155051,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155109,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155144,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155325,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155347,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155410,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155517,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220304,155557,40% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
 March,20220308,_124041,5% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
 March,20220308,_125200,10% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
 March,20220308,_130424,15% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
@@ -23,24 +112,80 @@ March,20220308,_132210,20% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,C
 March,20220308,_152734,25% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
 March,20220308,_153531,30% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
 March,20220308,_154412,40% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,Compare to Tanner's law model
-March,20220309,10 repeats,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
-March,20220309,10 repeats,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
-March,20220309,10 repeats,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
-March,20220309,10 repeats,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,120834,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,121133,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,121259,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,121540,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,121646,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,121824,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,122032,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,122209,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,122307,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,122345,50% ethanol,Teflon,100000,0.01,2,"4 V, 35 us",X,X,"Ok data showing calc of mixture ST, size dependence of frequency"
+March,20220309,124928,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125029,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125233,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125328,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125356,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125432,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125503,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125540,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125751,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,125817,60% ethanol,Teflon,100000,0.01,2,"3 V, 35 us",X,X,"Too slow, oscillations amplitude is too small, below res of image"
+March,20220309,140451,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141305,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141325,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141528,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141650,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141716,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141746,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141808,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141826,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,141953,70% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144411,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144511,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144627,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144652,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144760,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144823,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144842,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144903,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144920,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220309,144938,80% ethanol,Teflon,100000,0.01,2,"2.6 V, 35 us",X,X,"No oscillations observed, spreading dominant"
 March,20220309,_122631,50% ethanol,Borosilicate,100000,0.01,2,"4 V, 35 us",X,X,45.57790056
 March,20220309,_130041,60% ethanol,Borosilicate,100000,0.01,2,"3 V, 35 us",X,X,40.24844569
 March,20220309,_142709,70% ethanol,Borosilicate,100000,0.01,2,"2.8 V, 35 us",X,X,38.97593301
 March,20220309,_145257,80% ethanol,Borosilicate,100000,0.01,2,"2.6 V, 35 us",X,X,40.64723692
 March,20220309,_150034,90% ethanol,Borosilicate,100000,0.01,2,"2.5 V, 35 us",X,X,43.18299948
-March,20220329,10 repeats,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115410,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115524,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115543,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115600,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115621,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115640,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115710,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115741,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115846,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
+March,20220329,115901,90% ethanol,Teflon,100000,0.01,2,"2.8 V, 35 us",X,X,"No oscillations observed, spreading dominant"
 April,20220408,"10, 1, 0.1 Hz",water,N/A,Snapshot,N/A,2,Unknown,X,X,Images of tip dispensing and free droplet to compare dispensing frequency
 April,20220421,20 repeats at 0.09 ms ,5% sucrose,N/A,100000,0.01,2,"3V, 40 us",X,X,Cycle view of 0.09 ms after dispensing pulse (20 cycles)
 April,20220421,20 repeats at 0.1 ms,5% sucrose,N/A,100000,0.01,2,"3V, 40 us",X,X,Cycle view of 0.1 ms after dispensing pulse (20 cycles)
 April,20220421,20 repeats (15 frames),5% sucrose,N/A,100000,0.01,2,"3V, 40 us",X,X,"All 15 frames of the 20 cycles, including snapshot of all 20 cycles"
-April,20220421,10 repeats,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,103143,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,103627,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,103707,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,103751,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,1033835,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,103914,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,104048,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,104112,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,104256,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
+April,20220421,104521,5% sucrose,Teflon,100000,0.01,2,"3V, 40 us",X,X,Good data showing calc of sucrose ST
 April,20220421,_104645,5% sucrose,Teflon,Snapshot,N/A,2,"3V, 40 us",X,X,Snapshot of residue of 7 repeats on surface at full resolution (1024 x 1024)
 April,20220421,_122215,5% sucrose,Borosilicate,100000,0.01,2,"3V, 40 us",X,X,48.26066768
-May,20220503,3 repeats,10% sucrose,Teflon,100000,0.01,2,"4V, 35 us",X,X,"Only able to capture 3 repeats, very unreliable on the days attemped"
+May,20220503,121405,10% sucrose,Teflon,100000,0.01,2,"4V, 35 us",X,X,"Only able to capture 3 repeats, very unreliable on the days attemped"
+May,20220503,151302,10% sucrose,Teflon,100000,0.01,2,"4V, 35 us",X,X,"Only able to capture 3 repeats, very unreliable on the days attemped"
+May,20220503,164833,10% sucrose,Teflon,100000,0.01,2,"4V, 35 us",X,X,"Only able to capture 3 repeats, very unreliable on the days attemped"
 May,20220512,10 repeats,water,N/A,Stroboscopic,N/A,N/A,"-0.1V, 3 us, 2.6V, 7 us",X,X,Good calculation of pure water ST
 May,20220517,5 repeats,ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 3.0V, 9us",X,X,Good calculation of pure ethanol ST
 May,20220517,5 repeats,5% ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 2.8V, 6us",X,X,"Poor calc of ST (too high), perhaps some ethanol has evaporated, now conc lower than 5"
@@ -49,7 +194,11 @@ May,20220518,folder 9,5% ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 2.8V, 6us"
 May,20220518,2 repeats,10% ethanol,N/A,Stroboscopic,N/A,N/A,"0.1V, 3us, 2.8V, 6us",X,X,A bit high but ok I guess. Used old soln
 June,20220601,112731,water,Teflon,100000,0.01,2,"3V, 35us",X,X,Water test of new setup with dummy pulse
 June,20220601,_120614,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,"Free droplet not in focus, unable to size accurately"
-June,20220629,5 repeats,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,Total 8 repeats of 10% sucrose
+June,20220629,155611,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,Total 8 repeats of 10% sucrose
+June,20220629,160210,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,Total 8 repeats of 10% sucrose
+June,20220629,160243,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,Total 8 repeats of 10% sucrose
+June,20220629,160309,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,Total 8 repeats of 10% sucrose
+June,20220629,160418,10% sucrose,Teflon,100000,0.01,2,"3V, 35us",X,X,Total 8 repeats of 10% sucrose
 July,20220714,171824,1% NaHCO3,Polylysine,100000,0.01,2,"3.5V, 35 us",31,27,Impact on surface
 July,20220715,142146,10% NaCl,Borosilicate,100000,0.01,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 0.4 seconds"
 July,20220715,142534,10% NaCl,Borosilicate,100000,0.01,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 1 second"
@@ -58,25 +207,59 @@ July,20220715,145350,10% NaCl,Borosilicate,12800,0.08,2,"3V, 35 us",37,25,"Skips
 July,20220715,145525,10% NaCl,Borosilicate,12800,0.08,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 1.5 seconds"
 July,20220715,145945,10% NaCl,Borosilicate,12800,0.08,2,"3V, 35 us",37,25,"Skips to every 1000 frames, crystallisation begins around 3 seconds"
 August,20220808,165415,water,Polylysine?,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
-August,20220809,10 repeats,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
-August,20220810,8 repeats,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Small, slow droplets, videos taken during setup testing"
+August,20220809,134829,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,135150,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,140214,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,140253,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,140424,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,140621,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,140818,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,190920,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220809,141247,15% sucrose,Teflon,100000,0.01,2,"3V, 35 us",X,X,Testing new translation stage setup
+August,20220810,144932,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Small, slow droplets, videos taken during setup testing"
+August,20220810,145101,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Small, slow droplets, videos taken during setup testing"
+August,20220810,145247,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Small, slow droplets, videos taken during setup testing"
+August,20220810,145623,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Small, slow droplets, videos taken during setup testing"
+August,20220810,145646,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Small, slow droplets, videos taken during setup testing"
+August,20220810,145739,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Small, slow droplets, videos taken during setup testing"
 August,20220810,9 repeats,20% sucrose,Teflon,100000,0.01,2,"3-3.5V, 35us",X,X,"Bad, out of focus or no clean shot of free droplet for sizing"
-August,20220810,6 repeats,20% sucrose,Teflon,100000,0.01,2,"3.5V, 35us",X,X,Looks good
+August,20220810,144932,20% sucrose,Teflon,100000,0.01,2,"3.5V, 35us",X,X,Looks good
+August,20220810,145101,20% sucrose,Teflon,100000,0.01,2,"3.5V, 35us",X,X,Looks good
+August,20220810,145247,20% sucrose,Teflon,100000,0.01,2,"3.5V, 35us",X,X,Looks good
+August,20220810,145623,20% sucrose,Teflon,100000,0.01,2,"3.5V, 35us",X,X,Looks good
+August,20220810,145646,20% sucrose,Teflon,100000,0.01,2,"3.5V, 35us",X,X,Looks good
+August,20220810,145739,20% sucrose,Teflon,100000,0.01,2,"3.5V, 35us",X,X,Looks good
 August,20220810,_150529,20% sucrose,Borosilicate,100000,0.01,2,"3.5V, 35us",X,X,41.90336855
-August,20220811,8 repeats,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220811,162915,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220811,163024,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220811,163923,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220811,164223,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220811,165146,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220811,165216,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220811,165340,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
+August,20220811,165937,30% sucrose,Teflon,100000,0.01,2,"3-5V, 35 us",X,X,"1 cut off, 2 good, 3 another droplet in frame but seems no interference, 4 small and slow?, 5 good, 6 cut off, 7 small?, 8 cut off"
 August,20220812,_102608,30% sucrose,Borosilicate,100000,0.01,2,"4.5V, 35 us",X,X,"44.1852421832855, closer to model than lower conc, likely due to increased viscosity, quicker oscillation damping, spreading begins earlier"
-August,20220812,5 repeats,30% sucrose,Teflon,100000,0.01,2,"4.5V, 35 us",X,X,"Repeat 123 = cell above, 4 etc these droplets"
-August,20220822,6 repeats,20% NaCl,Teflon,100000,0.01,2,"4V, 25 us",53,23,Accurately determines surface tension woop!
+August,20220812,102837,30% sucrose,Teflon,100000,0.01,2,"4.5V, 35 us",X,X,"Repeat 123 = cell above, 4 etc these droplets"
+August,20220812,102905,30% sucrose,Teflon,100000,0.01,2,"4.5V, 35 us",X,X,"Repeat 123 = cell above, 4 etc these droplets"
+August,20220812,102936,30% sucrose,Teflon,100000,0.01,2,"4.5V, 35 us",X,X,"Repeat 123 = cell above, 4 etc these droplets"
+August,20220812,103006,30% sucrose,Teflon,100000,0.01,2,"4.5V, 35 us",X,X,"Repeat 123 = cell above, 4 etc these droplets"
+August,20220812,103055,30% sucrose,Teflon,100000,0.01,2,"4.5V, 35 us",X,X,"Repeat 123 = cell above, 4 etc these droplets"
+August,20220822,162739,20% NaCl,Teflon,100000,0.01,2,"4V, 25 us",53,23,Accurately determines surface tension woop!
+August,20220822,162916,20% NaCl,Teflon,100000,0.01,2,"4V, 25 us",53,23,Accurately determines surface tension woop!
+August,20220822,162946,20% NaCl,Teflon,100000,0.01,2,"4V, 25 us",53,23,Accurately determines surface tension woop!
+August,20220822,163202,20% NaCl,Teflon,100000,0.01,2,"4V, 25 us",53,23,Accurately determines surface tension woop!
+August,20220822,163233,20% NaCl,Teflon,100000,0.01,2,"4V, 25 us",53,23,Accurately determines surface tension woop!
+August,20220822,163325,20% NaCl,Teflon,100000,0.01,2,"4V, 25 us",53,23,Accurately determines surface tension woop!
 August,20220822,_164027,20% NaCl,Borosilicate,100000,0.01,2,"4V, 25 us",53,23,44.08081606
 August,20220823,_154107,10% sucrose,Borosilicate,100000,0.01,2,"3.5V, 35us",X,X,46.14317103
-August,20220823,_164530,20% NaCl,Teflon,10000,0.10,2,"A: 3.5V, 35 us, D: 3V, 20us",61,20,Weird bouncing artefact
-August,20220823,_164750,20% NaCl,Teflon,10000,0.10,2,"A: 3.5V, 35 us, D: 3V, 20us",61,20,"First attempt to probe evaporation dynamics, ~ 60% RH"
-August,20220824,_111040,20% NaCl,Teflon,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",65,20,Frame skip (every frame = 100 ms) 
-August,20220824,_111317,20% NaCl,Teflon,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",65,20,"Every frame saved, very large. Over sampled, no need to analyse"
-August,20220824,_143322,20% NaCl,Borosilicate,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
-August,20220824,_144913,20% NaCl,Polylysine,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
-August,20220824,_150155,20% NaCl,Silane,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
-August,20220824,_155923,20% NaCl,Teflon,1000,1.00,2,"A: 3V, 35us, D: 3V, 20us",65,20,Frame skip (every frame = 10 ms) new version of _111317 (frame skip)
+August,20220823,_164530,20% NaCl,Teflon,10000,0.1,2,"A: 3.5V, 35 us, D: 3V, 20us",61,20,Weird bouncing artefact
+August,20220823,_164750,20% NaCl,Teflon,10000,0.1,2,"A: 3.5V, 35 us, D: 3V, 20us",61,20,"First attempt to probe evaporation dynamics, ~ 60% RH"
+August,20220824,_111040,20% NaCl,Teflon,1000,1,2,"A: 3V, 35us, D: 3V, 20us",65,20,Frame skip (every frame = 100 ms) 
+August,20220824,_111317,20% NaCl,Teflon,1000,1,2,"A: 3V, 35us, D: 3V, 20us",65,20,"Every frame saved, very large. Over sampled, no need to analyse"
+August,20220824,_143322,20% NaCl,Borosilicate,1000,1,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
+August,20220824,_144913,20% NaCl,Polylysine,1000,1,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
+August,20220824,_150155,20% NaCl,Silane,1000,1,2,"A: 3V, 35us, D: 3V, 20us",60,22,Frame skip (every frame = 10 ms)
+August,20220824,_155923,20% NaCl,Teflon,1000,1,2,"A: 3V, 35us, D: 3V, 20us",65,20,Frame skip (every frame = 10 ms) new version of _111317 (frame skip)
 August,20220831,_10ethanol,10% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"6,7,15 - good value"
 August,20220831,_20ethanol,20% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"18,21,22 - bad, will repeat"
 August,20220831,_30ethanol,30% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"26 - bad, will repeat"
@@ -85,7 +268,16 @@ September,20220901,_30ethanol,30% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"11 -
 September,20220901,_40ethanol,40% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"17 - good value, 18,20 - bad, need repeats, good repeats 21,22"
 September,20220901,_60%ethanol,60% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"25,26,27"
 September,20220901,_80%ethanol,80% ethanol,N/A,Stroboscopic,N/A,N/A,N/A,X,X,"28,29,30"
-September,20220921,10 repeats,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,153159,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,143657,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,153803,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,153952,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,154015,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,154037,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,154143,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,154208,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,154241,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
+September,20220921,154318,2.5% NaHCO3,Teflon,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: oscillation data
 September,20220921,152840,2.5% NaHCO3,Teflon,100000,0.01,2,"A: 3V, 315us, D: 5V, 35us",41,22,"Frame skip evaporation, no crystallisation observed (too short)"
 September,20220921,154623,2.5% NaHCO3,Borosilicate,100000,0.01,2,"3.5V, 35us",41,22,TO ANALYSE: spreading data
 September,20220921,tip pics,tip pics,N/A,Snapshot,N/A,N/A,N/A,X,X,"Crusted NaHCO3, water, empty"
