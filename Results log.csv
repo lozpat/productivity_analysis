@@ -483,40 +483,91 @@ November,20221117,151224,Artificial saliva + 0.1 mucin,Teflon,100000,0.01,2,"A: 
 November,20221117,151234,Artificial saliva + 0.1 mucin,Teflon,100000,0.01,2,"A: 3.5V, 35us, D: 3V, 20us",41.3,22,Evaporation (matching video above) with coffee ring residue left after evap
 November,20221117,151528,Artificial saliva + 0.1 mucin,Teflon,100000,0.01,2,"A: 3.5V, 35us, D: 3V, 20us",41.27,22,Oscillations (matching video below)
 November,20221117,151539,Artificial saliva + 0.1 mucin,Teflon,100000,0.01,2,"A: 3.5V, 35us, D: 3V, 20us",41.27,22,Evaporation (matching video above) with coffee ring residue left after evap
-November,20222118,111541,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,111553,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,111800,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,111812,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,113222,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,113231,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,144845,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,144856,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,145309,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,145324,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,145815,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,145826,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,`145932,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,145944,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,150112,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,150122,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,150938,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,150948,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,151102,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,151111,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,151158,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,151208,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,151353,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,151404,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,151506,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,151516,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,151659,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,151705,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,151812,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,151822,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,151941,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,151953,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,152059,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,152111,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,152221,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Oscillations (matching video below)
-November,20222118,152231,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Evaporation (matching video above) with residue left after evap
-November,20222118,152710,0.1 % silica NPs,Borosilicate,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",,,Spreading
+November,20221118,111541,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",36,21,Oscillations (matching video below)
+November,20221118,111553,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",36,21,Evaporation (matching video above) with residue left after evap
+November,20221118,111800,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",36,21,Oscillations (matching video below)
+November,20221118,111812,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",36,21,Evaporation (matching video above) with residue left after evap
+November,20221118,113222,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",35,21,Oscillations (matching video below)
+November,20221118,113231,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",35,21,Evaporation (matching video above) with residue left after evap
+November,20221118,144845,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",30,21,Oscillations (matching video below)
+November,20221118,144856,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",30,21,Evaporation (matching video above) with residue left after evap
+November,20221118,145309,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",30,21,Oscillations (matching video below)
+November,20221118,145324,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",30,21,Evaporation (matching video above) with residue left after evap
+November,20221118,145815,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,145826,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,145932,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,145944,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,150112,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",30,21,Oscillations (matching video below)
+November,20221118,150122,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",30,21,Evaporation (matching video above) with residue left after evap
+November,20221118,150938,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,150948,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,151102,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,151111,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,151158,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,151208,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,151353,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,151404,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,151506,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,151516,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,151659,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,151705,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,151812,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,151822,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,151941,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,151953,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,152059,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,152111,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,152221,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Oscillations (matching video below)
+November,20221118,152231,0.1 % silica NPs,Teflon,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Evaporation (matching video above) with residue left after evap
+November,20221118,152710,0.1 % silica NPs,Borosilicate,100000,0.01,2,"A: 4V, 20us, D: 3V, 35us",29,21,Spreading
+November,20221122,104352,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 6V, 20 us, D: 6V, 35 us",-,-,"Small droplets, ignore these data"
+November,20221122,104401,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 6V, 20 us, D: 6V, 35 us",-,-,"Small droplets, ignore these data"
+November,20221122,104507,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 6V, 20 us, D: 6V, 35 us",-,-,"Small droplets, ignore these data"
+November,20221122,104517,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 6V, 20 us, D: 6V, 35 us",-,-,"Small droplets, ignore these data"
+November,20221122,104558,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 6V, 20 us, D: 6V, 35 us",-,-,"Small droplets, ignore these data"
+November,20221122,104609,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 6V, 20 us, D: 6V, 35 us",-,-,"Small droplets, ignore these data"
+November,20221122,110019,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.82,21,Oscillations (matching video below)
+November,20221122,110028,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.82,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110100,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.68,21,Oscillations (matching video below)
+November,20221122,110109,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.68,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110148,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.68,21,Oscillations (matching video below)
+November,20221122,110157,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.68,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110232,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.68,21,Oscillations (matching video below)
+November,20221122,110242,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.68,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110326,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.58,21,Oscillations (matching video below)
+November,20221122,110335,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.58,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110505,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.58,21,Oscillations (matching video below)
+November,20221122,110515,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.58,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110454,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.58,21,Oscillations (matching video below)
+November,20221122,110503,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.58,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110543,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.58,21,Oscillations (matching video below)
+November,20221122,110552,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.58,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110631,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.41,21,Oscillations (matching video below)
+November,20221122,110640,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.41,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110717,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.41,21,Oscillations (matching video below)
+November,20221122,110726,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.41,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110757,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.57,21,Oscillations (matching video below)
+November,20221122,110806,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.57,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110844,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.57,21,Oscillations (matching video below)
+November,20221122,110853,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.57,21,Evaporation (matching video above) with residue left after evap
+November,20221122,110932,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.57,21,Oscillations (matching video below)
+November,20221122,110941,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.57,21,Evaporation (matching video above) with residue left after evap
+November,20221122,111017,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.66,21,Oscillations (matching video below)
+November,20221122,111026,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.66,21,Evaporation (matching video above) with residue left after evap
+November,20221122,111163,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.47,21,Oscillations (matching video below)
+November,20221122,111112,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.47,21,Evaporation (matching video above) with residue left after evap
+November,20221122,111153,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.47,21,Oscillations (matching video below)
+November,20221122,111202,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.47,21,Evaporation (matching video above) with residue left after evap
+November,20221122,111241,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.47,21,Oscillations (matching video below)
+November,20221122,111251,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.47,21,Evaporation (matching video above) with residue left after evap
+November,20221122,111323,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.42,21,Oscillations (matching video below)
+November,20221122,111332,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.42,21,Evaporation (matching video above) with residue left after evap
+November,20221122,111406,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.35,21,Oscillations (matching video below)
+November,20221122,111416,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.35,21,Evaporation (matching video above) with residue left after evap
+November,20221122,111448,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.35,21,Oscillations (matching video below)
+November,20221122,111457,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Teflon,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",38.35,21,Evaporation (matching video above) with residue left after evap
+November,20221122,111655,Artificial saliva + 0.1 mucin + 0.1 silica NPs,Borosilicate,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",-,-,Spreading on borosilicate
+November,20221122,162344,Artificial saliva,Borosilicate,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",-,-,Spreading on borosilicate
+November,20221122,164332,Artificial saliva + 0.1 mucin,Borosilicate,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",-,-,Spreading on borosilicate
+November,20221122,162344,Artificial saliva,Borosilicate,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",-,-,Spreading on borosilicate
+November,20221122,164332,Artificial saliva + 0.1 mucin,Borosilicate,100000,0.01,2,"A: 4.5v, 20us, D: 3V, 35us",-,-,Spreading on borosilicate
